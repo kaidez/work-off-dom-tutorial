@@ -1,0 +1,43 @@
+html, body {
+	text-align:center;
+	margin:0px auto;
+}
+
+/* We're going to use jQuery to add this id to one of our attributes */
+#innerBoxOne {
+	background-color: #DDD;
+	border: 1px solid #000;
+	height:200px;
+	width: 200px;
+	text-align:center;
+	margin:0px auto;
+}
+
+/* This one, too */
+#innerBoxTwo {
+	border: 1px solid #000;
+	height:200px;
+	width: 200px;
+	text-align:center;
+	margin:0px auto;
+}
+
+/* These two as well */
+#outerBoxOne, #outerBoxTwo {
+	margin-bottom: 25px;
+	border: 3px dashed red;
+	width: 275px;
+	text-align:center;
+	margin:25px auto;
+	padding: 5px;
+	clear: both;
+}
+
+#container {
+	text-align:center;
+}
+
+/* We'll also add this class with jQuery */
+.blueBg {
+	background-color: #3a9fdf;
+}
