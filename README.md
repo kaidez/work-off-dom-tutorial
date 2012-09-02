@@ -8,11 +8,11 @@ Of course, you don't have to go through the screencast...you can just download t
 
 ##Here are the links to the screencast videos on YouTube:
 
-[Part1 &raquo;](http://youtu.be/WhQbz1Zn72Y)
+[Part 1 &raquo;](http://youtu.be/WhQbz1Zn72Y)
 
-[Part2 &raquo;](http://youtu.be/dGC-YAxD4pw)
+[Part 2 &raquo;](http://youtu.be/dGC-YAxD4pw)
 
-[Part3 &raquo;](http://youtu.be/MUvnKrXHwwk)
+[Part 3 &raquo;](http://youtu.be/MUvnKrXHwwk)
 
 ##Before starting this tutorial, you should understand:
 
