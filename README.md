@@ -21,7 +21,7 @@ Of course, you don't have to go through the screencast...you can just download t
 
 Arrays are THE most important thing to understand for this tutorial as an array plays a big part in locating data at some point in the code. Please review the MDN array link above if you need help with arrays.
 
-##After finishing the tutorial, you should gain a basic understand the following JavaScript/jQuery stuff:
+##After finishing the tutorial, you should gain a basic understand the following JavaScript/jQuery things:
 
     createDocumentFragment()
     createElement()
