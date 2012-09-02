@@ -10,14 +10,14 @@ Of course, you don't have to go through the screencast...you can just download t
 
 [Part1 &raquo;](http://youtu.be/WhQbz1Zn72Y)
 
-[Part2](http://youtu.be/dGC-YAxD4pw)
+[Part2 &raquo;](http://youtu.be/dGC-YAxD4pw)
 
-[Part3](http://youtu.be/MUvnKrXHwwk)
+[Part3 &raquo;](http://youtu.be/MUvnKrXHwwk)
 
 ##Before starting this tutorial, you should understand:
 
-* how variables work in JavaScript [(learn more about this at MDN)](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/var)
-* how arrays work in JavaScript [(learn more about this at MDN)](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Array)
+* how variables work in JavaScript [(learn more about this at MDN) &raquo;](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Statements/var)
+* how arrays work in JavaScript [(learn more about this at MDN) &raquo;](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Array)
 
 Arrays are THE most important thing to understand for this tutorial as an array plays a big part in locating data at some point in the code. Please review the MDN array link above if you need help with arrays.
 
@@ -34,7 +34,7 @@ Arrays are THE most important thing to understand for this tutorial as an array 
     .attr() //a jQuery method
 
 ##Grab the slides!!!
-The slide deck used in this tutorial contains links to some great learning resources and can be viewed [here](http://slides.kaidez.com/work-off-dom/).
+The slide deck used in this tutorial contains links to some great learning resources and can be viewed [here &raquo;](http://slides.kaidez.com/work-off-dom/).
 
 thanx!!!  
-kaidez
+-kaidez
