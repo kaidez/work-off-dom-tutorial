@@ -4,7 +4,7 @@ This is the corresponding source code for the screencast tutorial, ["Working off
 
 The primary inspiration for this tutorial was Paul Irish's excellent screencast, ["HTML5, CSS3, and DOM Performance"](http://www.youtube.com/watch?v=q_O9_C2ZjoA). He discussed client-side reflows and repaints and I wanted to learn more about them. In the process of researching and learning about them, I learned a lot of interesting things about how the DOM works. I'm just sharing what I learned here.
 
-Of, course, you don't have to go through the screencast...you can just download the code in this Git repo. [scripts.js](https://github.com/kaidez/work-off-dom-tutorial/blob/master/js/scripts.js) is the main file that you'll need to understand all of this. It's fully documented with comments explaining exactly how the code works! If you use this code as a whole in a production enviroment, consider minifying it first.
+Of course, you don't have to go through the screencast...you can just download the code in this Git repo. [scripts.js](https://github.com/kaidez/work-off-dom-tutorial/blob/master/js/scripts.js) is the main file that you'll need to understand all of this. It's fully documented with comments explaining exactly how the code works! If you use this code as a whole in a production enviroment, consider minifying it first.
 
 ##Here are the links to the screencast videos on YouTube:
 
