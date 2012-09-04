@@ -1,5 +1,4 @@
 (function(){
-/*
 wrapping all of our code in a self-executing JS function,
 A.K.A. an IIFE, which is good -> bit.ly/ND48Dp
 */
