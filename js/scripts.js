@@ -53,7 +53,7 @@ findDiv = document.getElementById('outerBoxOne');
 //find the div on our page that we want to clone (id 'outerBoxOne')
 
 copyDiv = findDiv.cloneNode(true);
-//clone it
+//clone it, as well as all the stuff inside of it, which is the h1 tag and the second div
 
 /*
 The duplicate of 'copyDiv' is now off-DOM and also contains a
@@ -81,7 +81,7 @@ insideBox = copyDiv.childNodes[1];
 //store a reference to the duplicate second div inside a variable
 
 insideBox.innerHTML = 'Goodnight, Moon!';
-//change the copy inside of the duplicate second div to 'Goodnight, Moon!'
+//the copy inside second div currently says 'Hello, World!: change it to 'Goodnight, Moon!'
 
 /*
 We're about load this duplicate content on to our page but need
@@ -90,7 +90,7 @@ sharing id names...not good.
 
 copyDiv's id is currently '#outerBoxOne': we'll change it to '#outerBoxTwo.'
 insideBox's id is currently '#innerBoxOne': we'll change it to '#innerBoxTwo.'
-We'll also add a class called '.blueBg' insideBox.
+We'll also add a class called '.blueBg' to insideBox.
 
 '#outerBoxTwo', '#innerBoxTwo' and '.blueBg' already exist in the 'styles.css' file.
 */
