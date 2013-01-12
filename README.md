@@ -34,7 +34,7 @@ Arrays are THE most important thing to understand for this tutorial as an array 
     .attr() //a jQuery method
 
 ##Grab the slides!!!
-The slide deck used in this tutorial contains links to some great learning resources and can be viewed [here &raquo;](http://slides.kaidez.com/work-off-dom/).
+The slide deck used in this tutorial contains links to some great learning resources and can be viewed [here &raquo;](http://slides.kaidez.com/work-off-dom/)
 
 thanx!!!  
 -kaidez
