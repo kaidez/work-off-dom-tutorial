@@ -1,4 +1,4 @@
-#WHAT IS THIS?
+##WHAT IS THIS?
 
 This is the corresponding source code for the screencast tutorial, ["Using JavaScript Off-DOM"](http://kaidez.com/javascript-off-dom/) by [Kai 'kaidez' Gittens](http://twitter.com/kaidez). While it focuses on doing stuff off-DOM, going through this tutorial should help you gain a basic understanding of how to traverse and manipulate the DOM with JavaScript.
 
